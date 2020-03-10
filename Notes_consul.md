@@ -32,7 +32,6 @@ Pourquoi automatiser ces demandes ?
 
 **2. Travailler interview et note de cadrage, quelles sont les informations échangées**
 
-
 Site web du consulat : Sa mission :
 
 
@@ -108,6 +107,7 @@ M2 : Etude préalable Application de suivi des demandes d’actes d’état civi
 
 
 **Etape 3 : Modèle conceptuel de données**
+
 
 Inscription consulaire : 
 
