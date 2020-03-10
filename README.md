@@ -1,2 +1,4 @@
-# stage
-Stage Consulat Général Sénégal 
+# Stage
+----------------------------
+
+**Stage Consulat Général Sénégal**
