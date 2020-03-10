@@ -2,9 +2,9 @@
 
 
 ### Date : Mardi 10 Mars
-### Equipe : Amaria, Romain, Djoumbé, Xavier
+### Equipe : Yacine, Lotfi, Yoann, Sacha
 ### Version : 0.9.0
-### PM : Non décidé
+### PM : 
 ### Formateur : Samba Cissé
 
 ## Projet - Note de cadrage – Consulat Sénégalais Marseille
