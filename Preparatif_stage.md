@@ -1,4 +1,4 @@
-# Stage Consulat Sénégalais 
+# Stage Consulat Général du Sénégal
 
 ------------------------------------------------------------------
 
